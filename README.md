@@ -1,0 +1,4 @@
+# springcloudgateway
+1:基于springcloud的gateway做的一个网关
+2:maven配置文件中有apollo配置中心的东西,不需要对可以自行解除
+
